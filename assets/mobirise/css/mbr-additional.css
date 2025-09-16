@@ -1036,7 +1036,7 @@ a {
 }
 .cid-sFGMfPD7iT .mbr-section-title {
   text-align: right;
-  color: #353535;
+  color: #232323;
 }
 .cid-sFGMfPD7iT .mbr-text,
 .cid-sFGMfPD7iT .mbr-section-btn {
@@ -1081,6 +1081,139 @@ a {
 .cid-sFGOTvnvck .card-box {
   color: #ffffff;
 }
+.cid-uWU6A8iF40 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/r.jpeg-2000x1333.jpeg");
+}
+.cid-uWU6A8iF40 .mbr-overlay {
+  background: #000000;
+  opacity: 0.7;
+}
+.cid-uWU6A8iF40 img,
+.cid-uWU6A8iF40 .item-img {
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-uWU6A8iF40 .item:focus,
+.cid-uWU6A8iF40 span:focus {
+  outline: none;
+}
+.cid-uWU6A8iF40 .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-uWU6A8iF40 .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #000000;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-uWU6A8iF40 .item-wrapper .item-content {
+    padding: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uWU6A8iF40 .item-wrapper .item-content {
+    padding: 1rem;
+  }
+}
+.cid-uWU6A8iF40 .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uWU6A8iF40 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-uWU6A8iF40 .mbr-text,
+.cid-uWU6A8iF40 .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-uWU6A8iF40 .item-title {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-uWU6A8iF40 .item-subtitle {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-uWU6A8iF40 .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uWUbb7kQVm {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mark-shim-tenor-sax-19-international-jazz-festival-of-punta-del-este-150111-2055-jikatu-16077626329-2000x1234.jpg");
+}
+.cid-uWUbb7kQVm .mbr-overlay {
+  background: #000000;
+  opacity: 0;
+}
+.cid-uWUbb7kQVm img,
+.cid-uWUbb7kQVm .item-img {
+  height: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+.cid-uWUbb7kQVm .item:focus,
+.cid-uWUbb7kQVm span:focus {
+  outline: none;
+}
+.cid-uWUbb7kQVm .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-uWUbb7kQVm .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  background: #000000;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+@media (min-width: 992px) {
+  .cid-uWUbb7kQVm .item-wrapper .item-content {
+    padding: 2rem 2rem 0;
+  }
+  .cid-uWUbb7kQVm .item-wrapper .item-footer {
+    padding: 0 2rem 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uWUbb7kQVm .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .cid-uWUbb7kQVm .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.cid-uWUbb7kQVm .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uWUbb7kQVm .mbr-section-title {
+  color: #ffffff;
+}
+.cid-uWUbb7kQVm .mbr-text,
+.cid-uWUbb7kQVm .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-uWUbb7kQVm .item-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-uWUbb7kQVm .item-subtitle {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-uWUbb7kQVm .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-ukC3ZTZz7Q {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -1118,63 +1251,6 @@ a {
 .cid-ukC3ZTZz7Q .card-title,
 .cid-ukC3ZTZz7Q .iconfont-wrapper {
   color: #ffffff;
-}
-.cid-ukFo9O7pJW {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-image: url("../../../assets/images/mark-shim-tenor-sax-19-international-jazz-festival-of-punta-del-este-150111-2055-jikatu-16077626329-2000x1234.jpg");
-}
-.cid-ukFo9O7pJW .mbr-overlay {
-  background: #232323;
-  opacity: 0.2;
-}
-.cid-ukFo9O7pJW img,
-.cid-ukFo9O7pJW .item-img {
-  height: 100%;
-  object-fit: cover;
-}
-.cid-ukFo9O7pJW .item:focus,
-.cid-ukFo9O7pJW span:focus {
-  outline: none;
-}
-.cid-ukFo9O7pJW .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-ukFo9O7pJW .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #fafafa;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-ukFo9O7pJW .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-ukFo9O7pJW .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-ukFo9O7pJW .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-ukFo9O7pJW .mbr-section-title {
-  color: #ffffff;
-}
-.cid-ukFo9O7pJW .mbr-text,
-.cid-ukFo9O7pJW .mbr-section-btn {
-  text-align: left;
-}
-.cid-ukFo9O7pJW .item-title {
-  text-align: left;
-}
-.cid-ukFo9O7pJW .item-subtitle {
-  text-align: left;
-  color: #232323;
 }
 .cid-sFGTcFRqw0 {
   padding-top: 2rem;
